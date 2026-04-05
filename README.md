@@ -1,4 +1,4 @@
-## Hi there 👋
+## yeah don't look at my repos, they're pure vibeslop
 
 <!--
 **x1erra/x1erra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
